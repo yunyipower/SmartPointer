@@ -1,0 +1,1 @@
+My simple implementation of smart pointer.
